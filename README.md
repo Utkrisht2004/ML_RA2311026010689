@@ -12,3 +12,6 @@ Here are the links to the datasets used in the experiments.
 
 * **Experiment 3 (Insurance Dataset):**
     `https://raw.githubusercontent.com/stedy/Machine-Learning-with-R-datasets/master/insurance.csv`
+
+
+Please open OUTPUTS folder for output images for all the experiments.
